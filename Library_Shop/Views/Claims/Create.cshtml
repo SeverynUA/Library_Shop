@@ -1,0 +1,29 @@
+﻿@model Library_Shop.Models.DTOs.Claim.CreateClaimDTO
+
+<h4>Create new Claim</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="mb-3">
+                <label asp-for="ClaimType" class="control-label"></label>
+                <input asp-for="ClaimType" class="form-control" />
+                <span asp-validation-for="ClaimType" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="ClaimValue" class="control-label"></label>
+                <input asp-for="ClaimValue" class="form-control" />
+                <span asp-validation-for="ClaimValue" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <input type="submit" value="Create Claim" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,56 @@
+﻿@using Library_Shop.Data;
+
+@model IEnumerable<Library_User>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(t => t.First().Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(t => t.First().UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(t => t.First().Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(t => t.First().DateOfBirth)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Library_User user in Model)
+        {
+            <tr>
+                <td>
+                    @user.Id
+                </td>
+                <td>
+                    @user.UserName
+                </td>
+                <td>
+                    @user.Email
+                </td>
+                <td>
+                    @user.DateOfBirth.ToString("dd/MM/yyyy")
+                </td>
+                <td>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@user.Id">Edit</a>
+                        <a asp-action= "Delete" asp-route-id= "@user.Id"> Delete </a>
+                    }
+                    <a asp-action="Details" asp-route-id="@user.Id">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

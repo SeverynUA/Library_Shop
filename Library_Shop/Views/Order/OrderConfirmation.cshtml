@@ -1,0 +1,36 @@
+﻿@using ClassLibrary_Shop.Models.Order_m
+
+@model Order
+
+@{
+    ViewData["Title"] = "Order Confirmation";
+}
+
+<h2>Thank you for your order!</h2>
+
+<p>Order Number: @Model.Id</p>
+<p>Order Date: @Model.OrderDate.ToShortDateString()</p>
+<p>Total Amount: @Model.TotalAmount.ToString("C")</p>
+
+<h3>Order Details</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.OrderDetails)
+        {
+            <tr>
+                <td>@item.Book.Title</td>
+                <td>@item.Quantity</td>
+                <td>@item.UnitPrice.ToString("C")</td>
+                <td>@(item.Quantity * item.UnitPrice).ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>

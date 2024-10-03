@@ -1,0 +1,175 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Library_Shop
+build_property.RootNamespace = Library_Shop
+build_property.ProjectDir = C:\Users\coolm\OneDrive\STEP\FOURTH semester\Development of web applications using ASP.NET and AJAX technologies\29_Exam\Library_Shop\Library_Shop\Library_Shop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\coolm\OneDrive\STEP\FOURTH semester\Development of web applications using ASP.NET and AJAX technologies\29_Exam\Library_Shop\Library_Shop\Library_Shop
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Authors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Authors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Authors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Authors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Authors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Books/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Cart/GetCountry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxHZXRDb3VudHJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Cart/SetCountry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxTZXRDb3VudHJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Claims/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Claims/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Images/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Images/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Images/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Images/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Images/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Order/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Order/OrderConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Publishers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Publishers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Publishers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Publishers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Publishers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/coolm/OneDrive/STEP/FOURTH semester/Development of web applications using ASP.NET and AJAX technologies/29_Exam/Library_Shop/Library_Shop/Library_Shop/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sqkkcafyfs

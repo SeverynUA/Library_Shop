@@ -1,0 +1,55 @@
+﻿@using System.Security.Claims
+@model IEnumerable<Claim>
+
+<h1>Current User Claims</h1>
+<p>
+    <a asp-action="Create">Create New User Claims</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Type
+            </th>
+            <th>
+                Value Type
+            </th>
+            <th>
+                Value
+            </th>
+            <th>
+                Issuer
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Claim item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Type
+                </td>
+                <td>
+                    @item.ValueType
+                </td>
+                <td>
+                    @item.Value
+                </td>
+                <td>
+                    @item.Issuer
+                </td>
+                <td>
+                    <form asp-action="Delete">
+                        <input type="hidden" value="@item.Type;@item.ValueType;@item.Value" name="claimInfo">
+                        <button type="submit" class="btn btn-sm btn-outline-danger">Delete</button>
+                    </form>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <a asp-action="Index" asp-controller="User">Back to User list</a>
+</div>
